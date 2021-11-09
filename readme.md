@@ -10,6 +10,9 @@ Access token: pk.eyJ1IjoiamFtZXNmYW4iLCJhIjoiY2t2ZTZoNGp6NDJuaDMybXN6c3VjamFwaiJ
     <link href='https://api.mapbox.com/mapbox-gl-js/v2.3.1/mapbox-gl.css' rel='stylesheet' />
 </head>
 
+http://bayterrace.ddns.net/bootstrap-bootcamp/
+
+
 We now want to initialize the machine that will run the control plane components which includes etcd (the cluster database) and the API Server.
 
 Pull container images:
